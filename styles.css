@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+}
+
+.title {
+    padding: 22px;
+    font-size: 44px;
+    border-bottom: 4px solid black;
+    border-top: 6px solid black;
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+}
+table {
+ width: 100%;
+font-size: 25px;
+border: 2px solid black;
+
+}
+th {
+    border: 1px solid black;
+}
+.womancover {
+    position: absolute;
+    left: 72px;
+}
+.mencover {
+    position: absolute;
+    right: 65px;
+}
